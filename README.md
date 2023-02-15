@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/automation-productivity-increase-concept-technology-process-server-room-background-web-site-header-wallpaper-142337474.jpg)](https://meehamdy.io)
+[![MasterHead](https://1.bp.blogspot.com/-kMNClaFNW7Q/XnCeIlMoL4I/AAAAAAAAVOo/h34T20T1RJcSaZE_EloEuybh2cJVg-WEgCLcBGAsYHQ/s1600/automated.gif)](https://meehamdy.io)
 <h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
 <h3 align="center">A passionate Automation Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2019/08/Automation-GIF.gif">
